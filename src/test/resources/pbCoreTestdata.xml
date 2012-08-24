@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PBCoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html">
+  <pbcoreIdentifier>
+    <identifier>139483RitzauProgram</identifier>
+    <identifierSource>id</identifierSource>
+  </pbcoreIdentifier>
+  <pbcoreTitle>
+    <title>Radioavis</title>
+    <titleType>titel</titleType>
+  </pbcoreTitle>
+  <pbcoreTitle>
+    <title>Radioavis originaltitel</title>
+    <titleType>originaltitel</titleType>
+  </pbcoreTitle>
+  <pbcoreTitle>
+    <title>Radioavis episodetitel</title>
+    <titleType>episodetitel</titleType>
+  </pbcoreTitle>
+  <pbcoreDescription>
+    <description>Dagens vigtigste emner</description>
+    <descriptionType>langomtale1</descriptionType>
+  </pbcoreDescription>
+  <pbcoreDescription>
+    <description>Dagens vigtigste nyheder</description>
+    <descriptionType>langomtale2</descriptionType>
+  </pbcoreDescription>
+  <pbcoreDescription>
+    <description>Vigtigste emner</description>
+    <descriptionType>kortomtale</descriptionType>
+  </pbcoreDescription>
+  <pbcoreGenre>
+    <genre>hovedgenre: Radio</genre>
+  </pbcoreGenre>
+  <pbcoreGenre>
+    <genre>undergenre: Alle</genre>
+  </pbcoreGenre>
+  <pbcoreGenre>
+    <genre>indhold_emne: </genre>
+  </pbcoreGenre>
+  <pbcoreCreator>
+    <creator>Jes Dorph</creator>
+    <creatorRole>forfatter</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Statsministeren</contributor>
+    <contributorRole>medvirkende</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Jes Dorph og Co.</contributor>
+    <contributorRole>instruktion</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>drp1</publisher>
+    <publisherRole>channel_name</publisherRole>
+  </pbcorePublisher>
+  <pbcorePublisher>
+    <publisher>DR P1</publisher>
+    <publisherRole>kanalnavn</publisherRole>
+  </pbcorePublisher>
+  <pbcoreInstantiation>
+    <dateCreated>0</dateCreated>
+    <dateIssued></dateIssued>
+    <formatLocation></formatLocation>
+    <formatMediaType>Sound</formatMediaType>
+    <formatStandard>ikke hd</formatStandard>
+    <formatDuration>0</formatDuration>
+    <formatAspectRatio>, </formatAspectRatio>
+    <formatColors>farve</formatColors>
+    <formatChannelConfiguration>ikke surround</formatChannelConfiguration>
+    <pbcoreDateAvailable>
+      <dateAvailableStart>2008-05-10T18:00:00+0200</dateAvailableStart>
+      <dateAvailableEnd>2008-05-10T18:03:00+0200</dateAvailableEnd>
+    </pbcoreDateAvailable>
+    <pbcoreFormatID>
+      <formatIdentifier>[INSERT_PBC_FORMAT_ID]</formatIdentifier>
+      <formatIdentifierSource>[INSERT_PBC_FORMAT_ID_SOURCE]</formatIdentifierSource>
+    </pbcoreFormatID>
+    <pbcoreAnnotation>
+      <annotation></annotation>
+    </pbcoreAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreExtension>
+    <extension>antalepisoder:0</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>episodenr:0</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>premiere:ikke premiere</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>genudsendelse:ikke genudsendelse</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>hovedgenre_id:24</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>kanalid:80</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>live:ikke live</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>lydlink:</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>produktionsland:</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>produktionsland_id:0</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>program_id:10429351</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>program_ophold:ikke program ophold</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>undergenre_id:674</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>urllink:</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>afsnit_id:0</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>saeson_id:0</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>serie_id:0</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>tekstet:ikke tekstet</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>th:ikke tekstet for hørehæmmede</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>ttv:ikke tekst-tv</extension>
+  </pbcoreExtension>
+  <pbcoreExtension>
+    <extension>showviewcode:0</extension>
+  </pbcoreExtension>
+</PBCoreDescriptionDocument>
